@@ -1,4 +1,4 @@
-x=1
+x=2
 sum=0
 while x!=0:
     x=int(input())
